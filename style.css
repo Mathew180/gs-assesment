@@ -3,6 +3,7 @@ body {
     background: #f7f7f7;
     color: #000;
     padding-top: 80px; /* Added for fixed navbar */
+    overflow-x: hidden;
 }
 
 .navbar {
@@ -229,3 +230,4 @@ object-fit: contain; /* Ensures logos scale well */
     max-width: 400px;
     border-radius: 20px;
 }
+
