@@ -200,8 +200,8 @@ object-fit: contain; /* Ensures logos scale well */
 .subscription-container {
     background-color: #003f71;
     color: white;
-    border-radius: 20px;
-    padding: 50px;
+    border-radius: 15px;
+    padding: 30px;
     max-width: 1200px;
     margin: 50px auto;
     display: flex;
@@ -217,7 +217,7 @@ object-fit: contain; /* Ensures logos scale well */
     background-color: #e07b08;
     color: white;
     border: none;
-    padding: 15px;
+    padding: 10px;
     width: 100%;
     border-radius: 10px;
     font-size: 18px;
